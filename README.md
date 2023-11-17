@@ -1,4 +1,4 @@
-# 🌍 Global Faces: A DALL-E Project 🌐
+# 🌍 Global Faces: A DALL-E 3 Project 🌐
 
 This project utilizes OpenAI's DALL-E to generate images representing people from every country recognized by the United Nations. The goal is to create a unique visual representation for each country, encapsulating its diverse identities.
 
